@@ -8,12 +8,12 @@
 
 ## 📋 Descripción
 
-ShopCore-Backend implementa toda la lógica central de un e-commerce completo, gestionando usuarios, productos, carritos y compras. Se encarga de autenticar usuarios con JWT, aplicar roles y permisos, validar stock, generar tickets de compra y asegurar que cada operación sea segura, consistente y escalable. Toda la arquitectura está construida con patrones modernos (DAO, Repository, DTO) que permiten mantener el código limpio, modular y fácil de extender. 
+ShopCore-Backend implementa toda la lógica central de un e-commerce completo, gestionando usuarios, productos, carritos y compras. Se encarga de autenticar usuarios con JWT, aplicar roles y permisos, validar stock, generar tickets de compra y asegurar que cada operación sea segura, consistente y escalable. Toda la arquitectura está construida con patrones modernos (DAO, Repository, DTO) que permiten mantener el código limpio, modular y fácil de extender.
 
-- **DAO Pattern** - Acceso a datos desacoplado
-- **Repository Pattern** - Lógica de negocio centralizada
-- **DTO Pattern** - Transferencia de datos segura
-- **Middleware de Autorización** - Control de acceso basado en roles
+- **DAO Pattern** – Acceso a datos desacoplado  
+- **Repository Pattern** – Lógica de negocio centralizada  
+- **DTO Pattern** – Transferencia de datos segura  
+- **Middleware de Autorización** – Control de acceso basado en roles
 
 ---
 
